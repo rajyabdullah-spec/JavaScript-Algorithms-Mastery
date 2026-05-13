@@ -8,7 +8,21 @@ This repository documents my journey through fundamental and intermediate logic 
 | :--- | :--- | :--- | :--- |
 | Monday | Basic | ✅ Completed | Loops, Summation, Max/Min |
 | Tuesday | Basic | ✅ Completed | Conditionals, Fibonacci, Array Shifting |
-| Wednesday | TBD | 🕒 Pending | - |
+| Wednesday | Basic | ✅ Completed | Factorials & Iterative Multiplication |
+
+---
+
+## 🚀 Day 03: Wednesday - Mathematical Foundations
+Today's focus was on understanding the mechanics of factorials and managing multiplicative identity in algorithms.
+
+### Key Challenges Solved:
+1. **Factorialize!**: Implementing a function to calculate $n!$ for integers up to 20.
+2. **Multiplicative Logic**: Managing the initial accumulator state (starting with 1 instead of 0).
+3. **Edge Case Handling**: Ensuring the algorithm correctly returns 1 for $0!$ based on mathematical rules.
+
+### 🛠️ Technical Approach:
+- **T-Diagram Analysis**: Detailed trace table included to track the `result` accumulator through each iteration.
+- **Pure Iteration**: Using `for` loops to understand the sequential growth of factorial products before exploring recursion.
 
 ---
 
