@@ -1,43 +1,32 @@
 # 🧠 JavaScript Algorithms Mastery
 
-This repository documents my journey through fundamental and intermediate logic challenges, focusing on core programming principles and T-Diagram analysis.
+This repository is a dedicated space for mastering algorithmic logic, data structures, and problem-solving patterns. Each solution is engineered for efficiency and verified through rigorous T-Diagram analysis.
 
-## 📅 Progress Tracker
+## 🚀 Weekly Sprint: Basic Algorithms (Week 01)
+*Focus: Mastering loops, conditionals, and initial mathematical patterns.*
 
-| Day | Level | Status | Focus Area |
+| Day | Challenge | Core Logic | View Code |
 | :--- | :--- | :--- | :--- |
-| Monday | Basic | ✅ Completed | Loops, Summation, Max/Min |
-| Tuesday | Basic | ✅ Completed | Conditionals, Fibonacci, Array Shifting |
-| Wednesday | Basic | ✅ Completed | Factorials & Iterative Multiplication |
+| **Monday** | 13 Fundamentals | Loops, Summation, Max/Min | [View JS](./01-Basic-Algorithms/Monday-Basic.js) |
+| **Tuesday** | Logic Patterns | Fibonacci, FizzBuzz, Array Shifting | [View JS](./01-Basic-Algorithms/Tuesday-Logic.js) |
+| **Wednesday** | Factorialize! | Multiplicative Identity & Iteration | [View JS](./01-Basic-Algorithms/Wednesday-Factorial.js) |
+| **Thursday** | Palindrome Checker | String Symmetry & Pre-processing | [View JS](./01-Basic-Algorithms/Thursday-Palindrome.js) |
 
 ---
 
-## 🚀 Day 03: Wednesday - Mathematical Foundations
-Today's focus was on understanding the mechanics of factorials and managing multiplicative identity in algorithms.
+## 🛠️ Engineering Standards
+To ensure high-quality code and zero-error logic, every algorithm in this repository follows these standards:
 
-### Key Challenges Solved:
-1. **Factorialize!**: Implementing a function to calculate $n!$ for integers up to 20.
-2. **Multiplicative Logic**: Managing the initial accumulator state (starting with 1 instead of 0).
-3. **Edge Case Handling**: Ensuring the algorithm correctly returns 1 for $0!$ based on mathematical rules.
-
-### 🛠️ Technical Approach:
-- **T-Diagram Analysis**: Detailed trace table included to track the `result` accumulator through each iteration.
-- **Pure Iteration**: Using `for` loops to understand the sequential growth of factorial products before exploring recursion.
+1. **T-Diagram Verification**: Every solution is manually traced before implementation to ensure logical accuracy.
+2. **ES6+ Standards**: Utilizing modern JavaScript features (`const`, `let`, Arrow Functions) for clean and readable code.
+3. **Optimized Iteration**: Prioritizing time complexity by reducing unnecessary loop cycles (e.g., using `length / 2` for symmetry checks).
+4. **Data Sanitization**: Handling real-world input variations, including case sensitivity and whitespace management.
 
 ---
 
-## 🚀 Day 02: Tuesday - Basic Algorithms Detailed
-In today's session, I focused on strengthening my foundational logic using core JavaScript syntax (no advanced methods like `map` or `filter`).
-
-### Key Challenges Solved:
-1. **Mathematical Logic**: Summing specific ranges with complex divisibility rules (XOR logic).
-2. **Data Structures**: Reversing array order manually to understand index manipulation.
-3. **Sequence Generation**: Implementing the Fibonacci sequence using optimized `while` loops.
-4. **Censorship Algorithm**: Using nested loops to dynamically mask strings based on length.
-
-### 🛠️ Technical Approach:
-- **T-Diagrams**: Every solution includes a manual trace table to ensure zero-error logic.
-- **Pure JS**: Strictly adhering to fundamental loops and conditional statements to build a "Lego-brick" logic foundation.
+## 📁 Repository Structure
+- **01-Basic-Algorithms/**: Foundation level challenges.
+- **Future Tracks**: Intermediate, Professional, and Recursive patterns (Coming Soon).
 
 ---
 *Engineered by Raji Al-Abdullah - 2026*
