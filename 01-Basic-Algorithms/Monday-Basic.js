@@ -1,7 +1,7 @@
 /**
- * DAY 01: Monday - Basic JS Algorithms
- * Goals: Practice loops, conditionals, and T-Diagrams.
- * Rules: No advanced methods (filter, reduce, sort).
+ * Monday: Basic JS Algorithms (1-135 & Sum/Max/Avg)
+ * Goal: Master fundamental loops, conditionals, and T-Diagram analysis.
+ * Rules: Use only core logic (for/if). No advanced built-in methods.
  */
 
 // ============================================================

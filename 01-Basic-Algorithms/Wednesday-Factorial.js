@@ -1,8 +1,8 @@
 /**
  * Wednesday: Factorialize!
- * ------------------------
- * Principle: Multiply all positive integers from 1 to n.
- * Rule: The factorial of zero (0!) is always 1.
+ * Goal: Calculate the product of all positive integers up to n.
+ * Rule: Ensure 0! equals 1. No recursive methods allowed.
+ */
  * * T-Diagram for factorialize(5):
  * | Iteration | i | i <= 5 | result (calculation) | result (final value) |
  * |-----------|---|--------|----------------------|----------------------|

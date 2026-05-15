@@ -1,9 +1,7 @@
 /**
  * Thursday: Palindrome Checker
- * * Logic:
- * 1. Clean string (remove spaces and convert to lowercase).
- * 2. Loop through half of the string.
- * 3. Compare characters from start and end.
+ * Goal: Verify if a string reads the same forwards and backwards.
+ * Logic: Clean string (lowercase/no spaces) and compare opposite indices.
  */
 
 const isPalindrome = (str) => {

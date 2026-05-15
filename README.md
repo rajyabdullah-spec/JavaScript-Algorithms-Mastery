@@ -11,6 +11,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Tuesday** | Logic Patterns | Fibonacci, FizzBuzz, Array Shifting | [View JS](./01-Basic-Algorithms/Tuesday-Logic.js) |
 | **Wednesday** | Factorialize! | Multiplicative Identity & Iteration | [View JS](./01-Basic-Algorithms/Wednesday-Factorial.js) |
 | **Thursday** | Palindrome Checker | String Symmetry & Pre-processing | [View JS](./01-Basic-Algorithms/Thursday-Palindrome.js) |
+| **Friday** | 3rd Highest Number | O(n) Efficiency & Variable Shifting | [View JS](./01-Basic-Algorithms/Friday-ThirdHighest.js) |
 
 ---
 

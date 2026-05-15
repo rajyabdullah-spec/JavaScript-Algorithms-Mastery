@@ -1,7 +1,7 @@
 /**
- * DAY 02: Tuesday - Basic JS Algorithms
- * Goals: Practice fundamental loops, conditionals, and logic patterns.
- * Rules: Core logic only (for, while, if). No advanced built-in methods.
+ * Tuesday: Basic JS Algorithms (Fibonacci & FizzBuzz)
+ * Goal: Practice advanced logic patterns and sequence generation.
+ * Rules: Implement manual iteration and logical branching.
  */
 
 // ============================================================
