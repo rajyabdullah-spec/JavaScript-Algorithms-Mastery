@@ -13,6 +13,13 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Thursday** | Palindrome Checker | String Symmetry & Pre-processing | [View JS](./01-Basic-Algorithms/Thursday-Palindrome.js) |
 | **Friday** | 3rd Highest Number | O(n) Efficiency & Variable Shifting | [View JS](./01-Basic-Algorithms/Friday-ThirdHighest.js) |
 
+## 🚀 Weekly Sprint: Intermediate Algorithms (Week 02)
+*Focus: Mastering nested loops, complex data structures, and multi-dimensional arrays.*
+
+| Day | Challenge | Core Logic | View Code |
+| :--- | :--- | :--- | :--- |
+| **Monday** | Largest Number in Arrays | Nested Loops & Dynamic Max Tracking | [View JS](./02-Intermediate-Algorithms/Monday-LargestNumbers.js) |
+
 ---
 
 ## 🛠️ Engineering Standards
@@ -26,8 +33,9 @@ To ensure high-quality code and zero-error logic, every algorithm in this reposi
 ---
 
 ## 📁 Repository Structure
-- **01-Basic-Algorithms/**: Foundation level challenges.
-- **Future Tracks**: Intermediate, Professional, and Recursive patterns (Coming Soon).
+- **01-Basic-Algorithms/**: Foundation level challenges (Week 01).
+- **02-Intermediate-Algorithms/**: Medium complexity challenges involving nested logic and data manipulation (Week 02).
+- **Future Tracks**: Professional, and Recursive patterns.
 
 ---
 *Engineered by Raji Al-Abdullah - 2026*
