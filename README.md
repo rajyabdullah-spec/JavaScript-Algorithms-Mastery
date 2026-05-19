@@ -19,6 +19,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | Day | Challenge | Core Logic | View Code |
 | :--- | :--- | :--- | :--- |
 | **Monday** | Largest Number in Arrays | Nested Loops & Dynamic Max Tracking | [View JS](./02-Intermediate-Algorithms/Monday-LargestNumbers.js) |
+| **Tuesday** | Find the Longest Word in a String | String Splitting & Length Comparison | [View JS](02-Intermediate-AlgorithmsTuesday-LongestWordjs) |
 
 ---
 
