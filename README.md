@@ -21,6 +21,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Monday** | Largest Number in Arrays | Nested Loops & Dynamic Max Tracking | [View JS](./02-Intermediate-Algorithms/Monday-LargestNumbers.js) |
 | **Tuesday** | Find the Longest Word in a String | String Splitting & Length Comparison | [View JS](./02-Intermediate-Algorithms/Tuesday-LongestWord.js) |
 | **Wednesday** | Title Case a Sentence | String Splitting & Casing Normalization | [View JS](./02-Intermediate-Algorithms/Wednesday-TitleCase.js) |
+| **Thursday** | Sum All Numbers in a Range | Iterative Accumulation vs O(1) Gauss Formula | [View JS](./02-Intermediate-Algorithms/thursday-sum-all-numbers-in-a-range.js) |
 
 ---
 
