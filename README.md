@@ -22,6 +22,14 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Tuesday** | Find the Longest Word in a String | String Splitting & Length Comparison | [View JS](./02-Intermediate-Algorithms/Tuesday-LongestWord.js) |
 | **Wednesday** | Title Case a Sentence | String Splitting & Casing Normalization | [View JS](./02-Intermediate-Algorithms/Wednesday-TitleCase.js) |
 | **Thursday** | Sum All Numbers in a Range | Iterative Accumulation vs O(1) Gauss Formula | [View JS](./02-Intermediate-Algorithms/thursday-sum-all-numbers-in-a-range.js) |
+| **Friday** | Fibonacci Sequence | Iterative Pointers O(n) & Optimized Space O(1) | [View JS](./02-Intermediate-Algorithms/Friday-Fibonacci.js) |
+
+## 🚀 Advanced Track: Professional Algorithms (Week 03)
+*Focus: Advanced mathematical control flow, state machine simulation, and professional technical specifications.*
+
+| Day | Challenge | Core Logic | View Code |
+| :--- | :--- | :--- | :--- |
+| **Monday** | Game of 3s | Conditional Loops, Modulo Math & Flow Control | [View JS](./03-Professional-Algorithms/Monday-GameOfThree.js) |
 
 ---
 
@@ -38,7 +46,7 @@ To ensure high-quality code and zero-error logic, every algorithm in this reposi
 ## 📁 Repository Structure
 - **01-Basic-Algorithms/**: Foundation level challenges (Week 01).
 - **02-Intermediate-Algorithms/**: Medium complexity challenges involving nested logic and data manipulation (Week 02).
-- **Future Tracks**: Professional, and Recursive patterns.
+- **03-Professional-Algorithms/**: High-tier structural logic and complex mathematical simulations (Week 03).
 
 ---
 *Engineered by Raji Al-Abdullah - 2026*
