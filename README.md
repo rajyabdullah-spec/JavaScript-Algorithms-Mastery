@@ -30,6 +30,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | Day | Challenge | Core Logic | View Code |
 | :--- | :--- | :--- | :--- |
 | **Monday** | Game of 3s | Conditional Loops, Modulo Math & Flow Control | [View JS](./03-Professional-Algorithms/Monday-GameOfThree.js) |
+| **Tuesday** | Magic Squares | 3x3 Grid Matrix Parity Evaluation & Structural Index Tracing | [View JS](./03-Professional-Algorithms/Tuesday-MagicSquares.js) |
 
 ---
 
