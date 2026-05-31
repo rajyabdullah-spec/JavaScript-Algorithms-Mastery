@@ -33,6 +33,15 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Tuesday** | Magic Squares | 3x3 Grid Matrix Parity Evaluation & Structural Index Tracing | [View JS](./03-Professional-Algorithms/Tuesday-MagicSquares.js) |
 | **Wednesday** | Search and Replace | Case Preservation, String Mutation & Substring Slicing | [View JS](./03-Professional-Algorithms/Wednesday-SearchReplace.js) |
 | **Thursday** | Sum All Primes | Inner Iterative Primes Isolation & Optimized $O(\sqrt{n})$ Boundary Check | [View JS](./03-Professional-Algorithms/Thursday-SumAllPrimes.js) |
+| **Friday** | Sum All Odd Fibonacci | Sub-boundary Fibonacci Series Generation & Iterative Bitwise/Modulo Odd Filtering | [View JS](./03-Professional-Algorithms/friday-sum-odd-fibonacci.js) |
+
+## 🚀 Weekly Sprint: Sorting Algorithms (Week 04)
+*Focus: Understanding computational complexity, array mutations, elements swapping, and optimized sorting passes.*
+
+| Day | Challenge | Core Logic | View Code |
+| :--- | :--- | :--- | :--- |
+| **Monday** | Bubble Sort | Traditional Nested Loops, Temp Swapping & Early Exit Optimized Flaggings | [View JS](./04-sorting-algorithms/monday-bubble-sort.js) |
+| **Tuesday** | Coming Soon... | Upcoming Sorting Algorithm Challenge Evaluation | [Pending] |
 
 ---
 
@@ -50,6 +59,7 @@ To ensure high-quality code and zero-error logic, every algorithm in this reposi
 - **01-Basic-Algorithms/**: Foundation level challenges (Week 01).
 - **02-Intermediate-Algorithms/**: Medium complexity challenges involving nested logic and data manipulation (Week 02).
 - **03-Professional-Algorithms/**: High-tier structural logic and complex mathematical simulations (Week 03).
+- **04-sorting-algorithms/**: Core computer science sorting mechanisms and performance-optimized array mutations (Week 04).
 
 ---
 *Engineered by Raji Al-Abdullah - 2026*
