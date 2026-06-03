@@ -41,7 +41,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | Day | Challenge | Core Logic | View Code |
 | :--- | :--- | :--- | :--- |
 | **Monday** | Bubble Sort | Traditional Nested Loops, Temp Swapping & Early Exit Optimized Flaggings | [View JS](./04-sorting-algorithms/monday-bubble-sort.js) |
-| **Tuesday** | Coming Soon... | Upcoming Sorting Algorithm Challenge Evaluation | [Pending] |
+| **Tuesday** | Selection Sort | Repeated Minimum Index Finding, Linear Scanning & ES6+ Destructured Element Swapping | [View JS](./04-sorting-algorithms/tuesday-selection-sort.js) |
 
 ---
 
