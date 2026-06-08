@@ -43,6 +43,13 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Monday** | Bubble Sort | Traditional Nested Loops, Temp Swapping & Early Exit Optimized Flaggings | [View JS](./04-sorting-algorithms/monday-bubble-sort.js) |
 | **Tuesday** | Selection Sort | Repeated Minimum Index Finding, Linear Scanning & ES6+ Destructured Element Swapping | [View JS](./04-sorting-algorithms/tuesday-selection-sort.js) |
 
+## 🚀 Weekly Sprint: Recursion Algorithms (Week 05)
+*Focus: Mastering system call stacks, base cases, and functional windings versus efficiency algorithms.*
+
+| Day | Challenge | Core Logic | View Code |
+| :--- | :--- | :--- | :--- |
+| **Monday** | rFactorial vs iFactorial | Structural Loops vs Memory Stack Functional Recursion Frameworks | [View JS](./05-recursion-algorithms/monday-factorial.js) |
+
 ---
 
 ## 🛠️ Engineering Standards
@@ -60,6 +67,7 @@ To ensure high-quality code and zero-error logic, every algorithm in this reposi
 - **02-Intermediate-Algorithms/**: Medium complexity challenges involving nested logic and data manipulation (Week 02).
 - **03-Professional-Algorithms/**: High-tier structural logic and complex mathematical simulations (Week 03).
 - **04-sorting-algorithms/**: Core computer science sorting mechanisms and performance-optimized array mutations (Week 04).
+- **05-recursion-algorithms/**: Functional winding stack architectures and recursive problem-solving workflows (Week 05).
 
 ---
 *Engineered by Raji Al-Abdullah - 2026*
