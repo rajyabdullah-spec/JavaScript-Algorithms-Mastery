@@ -49,6 +49,7 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | Day | Challenge | Core Logic | View Code |
 | :--- | :--- | :--- | :--- |
 | **Monday** | rFactorial vs iFactorial | Structural Loops vs Memory Stack Functional Recursion Frameworks | [View JS](./05-recursion-algorithms/monday-factorial.js) |
+| **Tuesday** | Bunny Ears Challenge | Iterative Accumulation vs Pure Functional Recursive Call Stack Aggregation | [View JS](./05-recursion-algorithms/tuesday-bunny-ears.js) |
 
 ---
 
