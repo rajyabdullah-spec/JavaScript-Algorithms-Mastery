@@ -50,6 +50,9 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | :--- | :--- | :--- | :--- |
 | **Monday** | rFactorial vs iFactorial | Structural Loops vs Memory Stack Functional Recursion Frameworks | [View JS](./05-recursion-algorithms/monday-factorial.js) |
 | **Tuesday** | Bunny Ears Challenge | Iterative Accumulation vs Pure Functional Recursive Call Stack Aggregation | [View JS](./05-recursion-algorithms/tuesday-bunny-ears.js) |
+| **Wednesday** | Power N Challenge | Iterative Multiplication vs Pure Recursive Decrementing Stack Evaluation | [View JS](./05-recursion-algorithms/wednesday-powern.js) |
+| **Thursday** | iFib vs rFib (Adjusted) | Variable Rolling Pointer Loops vs Binary Call Stack Branching Trees | [View JS](./05-recursion-algorithms/thursday-fibonacci.js) |
+| **Friday** | r Triangle Challenge | Structural Accumulator Loops vs Linear Tail-Recursive Addition Stacks | [View JS](./05-recursion-algorithms/friday-triangle.js) |
 
 ---
 
