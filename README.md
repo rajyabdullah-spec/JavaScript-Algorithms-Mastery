@@ -54,6 +54,54 @@ This repository is a dedicated space for mastering algorithmic logic, data struc
 | **Thursday** | iFib vs rFib (Adjusted) | Variable Rolling Pointer Loops vs Binary Call Stack Branching Trees | [View JS](./05-recursion-algorithms/thursday-fibonacci.js) |
 | **Friday** | r Triangle Challenge | Structural Accumulator Loops vs Linear Tail-Recursive Addition Stacks | [View JS](./05-recursion-algorithms/friday-triangle.js) |
 
+## 🚀 Evaluation Gate: Milestone Challenges (06-Challenges)
+*Focus: Executing critical computer science algorithms, mathematical logic limits, and recursive tracing structures under rigid bootcamp test conditions.*
+
+### 📝 1. Mock Evaluation Pipeline
+* **`demo-algorithm-challenge.js`**: An extensive milestone collection solving foundational logic blocks. Includes in-place array reversing workflows, custom recursive collection filtering, selection sort implementations, and multi-dimensional subarray matrix scans.
+    <details>
+    <summary>🎬 <b>Click to view Demo Challenge Verification Tables</b></summary>
+    <br>
+
+    #### Algorithm 1: Dynamic Two-Pointer Array Reversing Trace (`[2, 1, 6, 4, -7]`)
+    | start | end | X[start] | X[end] | Temporary Swap Action | Array State Result |
+    | :--- | :--- | :--- | :--- | :--- | :--- |
+    | `0` | `4` | `2` | `-7` | Swap `2` with `-7` | `[-7, 1, 6, 4, 2]` |
+    | `1` | `3` | `1` | `4` | Swap `1` with `4` | `[-7, 4, 6, 1, 2]` |
+    | `2` | `2` | Loop terminates (`start < end` is False) | - | - | **`[-7, 4, 6, 1, 2]`** |
+
+    #### Algorithm 2: Recursive Negatives Removal Call Stack Winding (`[1, -2, 4, 1]`)
+    * `Frame 1: index = 0` -> Holds `1`, waits for Frame 2.
+    * `Frame 2: index = 1` -> Holds `-2` (Negative Skip), waits for Frame 3.
+    * `Frame 3: index = 2` -> Holds `4`, waits for Frame 4.
+    * `Frame 4: index = 3` -> Holds `1`, waits for Frame 5.
+    * `Frame 5: index = 4` -> **Base Case Reached!** Returns `[]`.
+    * *Unwinding Aggregation Result:* `[1] + [4] + [] + [1]` => **`[1, 4, 1]`**.
+    </details>
+
+### 🎖️ 2. Official Bootcamp Evaluation Track
+* **`AlgorithmsChallenge3.js`**: The formal assessment suite delivered by **Instructor Wesam Shujaa**. Features advanced mathematical implementations including custom Exclusive OR (XOR) divisibility summation filters, large scale Fibonacci calculation loops ($N < 1,000,000$), and array parsing logic blocks.
+
+    <details>
+    <summary>📊 <b>Click to view Official Challenge 3 Verification Tables</b></summary>
+    <br>
+
+    #### Algorithm 4: Palindrome Dual-Pointer Logic Check ('kayak')
+    | str | left | right | str[left] | str[right] | str[left] === str[right] | Status |
+    | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+    | `"kayak"` | 0 | 4 | `'k'` | `'k'` | True | Active |
+    | `"kayak"` | 1 | 3 | `'a'` | `'a'` | True | Active |
+    | `"kayak"` | 2 | 2 | Loop terminates (left < right is False) | - | - | **Passed** |
+
+    #### Algorithm 5: Iterative Negative Filter Data Verification Vector
+    | arr | i | arr[i] | arr[i] >= 0 | resultArr |
+    | :--- | :--- | :--- | :--- | :--- |
+    | `[1, -2, 3]` | Init | - | - | `[]` |
+    | `[1, -2, 3]` | 0 | 1 | True | `[1]` |
+    | `[1, -2, 3]` | 1 | -2 | False | `[1]` |
+    | `[1, -2, 3]` | 2 | 3 | True | `[1, 3]` |
+    </details>
+
 ---
 
 ## 🛠️ Engineering Standards
@@ -72,6 +120,14 @@ To ensure high-quality code and zero-error logic, every algorithm in this reposi
 - **03-Professional-Algorithms/**: High-tier structural logic and complex mathematical simulations (Week 03).
 - **04-sorting-algorithms/**: Core computer science sorting mechanisms and performance-optimized array mutations (Week 04).
 - **05-recursion-algorithms/**: Functional winding stack architectures and recursive problem-solving workflows (Week 05).
+- **06-Challenges/**: Official bootcamp challenge evaluations, logic specifications, and multi-dimensional matrix checks.
 
 ---
+
+## 👨‍💻 Designed & Developed By
+
+* **Developer:** Raji Al-Abdullah
+* **Track:** Full-Stack Web Development (JavaScript Algorithms Mastery)
+* **Live Showcase:** [Visit My Live Portfolio Hub](https://rajyabdullah-spec.github.io/matrix-master-exercises/portfolio-hub/) 🌐
+
 *Engineered by Raji Al-Abdullah - 2026*
